@@ -1,0 +1,514 @@
+/* Small */
+@media (max-width: 768px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-container {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .mobile-nav {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .mobile-logo {
+    padding-right: 130px;
+    padding-top: 28px;
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .mobile-logo img {
+    max-width: 60%;
+    padding-left: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .toggle-icon {
+    padding-top: 15px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 20px;
+    position: relative;
+  }
+}
+
+@media (max-width: 768px) {
+  .heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-weight: 700;
+  }
+}
+
+@media (max-width: 768px) {
+  .description {
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #999999;
+    font-weight: 700;
+    line-height: 21px;
+  }
+}
+
+@media (max-width: 768px) {
+  .description span {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .grid-item img {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .watch-button {
+    background-color: #e50000;
+    color: #ffffff;
+    padding: 20px 25px;
+    font-size: 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 768px) {
+  .hide {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .main-section {
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+  }
+}
+
+@media (max-width: 768px) {
+  .slider-header {
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .slider-main-head {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 6px;
+  }
+}
+
+@media (max-width: 768px) {
+  .slider-header h2 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .slider-navs {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .slider-header p {
+    font-size: 14px;
+    padding-bottom: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .devices-type-grid-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .device-type-sec-title {
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .device-type-sec-title h2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .device-type-sec-title p {
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 20px;
+    line-height: 21px;
+  }
+}
+
+@media (max-width: 768px) {
+  .device-type-sec-title p span {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-section-header {
+    display: flex;
+    flex-direction: column;
+    padding-left: 18px;
+    padding-bottom: 25px;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-section {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-header p {
+    color: #999999;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-question {
+    font-size: 18px;
+    margin: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 320px;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-question span {
+    width: 49px;
+    height: 49px;
+    font-size: 16px;
+    background-color: #1f1f1f;
+    display: inline-flex;
+    padding: 14px;
+    margin-right: 14px;
+    color: #ffffff;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-question p {
+    font-size: 9px;
+    color: #ffffff;
+    font-weight: 400;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-header h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+}
+
+@media (max-width: 768px) {
+  .plans-header-contant {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-answer {
+    margin-top: 10px;
+    font-size: 13px;
+    width: 333px;
+    color: #ccc;
+    padding-left: 62px;
+  }
+}
+
+@media (max-width: 768px) {
+  .faq-btn {
+    color: #ffffff;
+    background-color: #e50000;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 17px;
+    height: 50px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: left;
+    width: fit-content;
+  }
+}
+
+
+
+
+@media (max-width: 768px) {
+  .grid-card p {
+   font-size: 14px;
+
+  }
+}
+
+
+@media (max-width: 768px) {
+  .plans-container .plan-card {
+    padding: 20px;
+    margin: 12px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .plans-container .plan-card {
+    padding: 20px;
+    margin: 12px;
+  }
+}
+
+@media (max-width: 768px) {
+  .trial-container {
+    padding-top: 45px;
+    border-radius: 12px;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .plans-header {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plans-header-contant h2 {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 36px;
+    width: 340px;
+    width: 340px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plans-header-contant p {
+    font-size: 14px;
+    color: #999999;
+    font-weight: 400;
+
+    line-height: 21px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plans-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) {
+  .plans-container-yearly {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) {
+  .plan-card h2 {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plan-card h3 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plan-card h3 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plan-card p .plan-card h3 span,
+  .plans-btns .trial-btn,
+  .plans-btns .Choose-btn {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plan-btns {
+    width: 240px;
+    justify-content: left;
+    display: flex;
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plan-card p {
+    line-height: 21px;
+    font-size: 14px;
+    width: 295px;
+  }
+}
+
+@media (max-width: 768px) {
+  .plans-btns .trial-btn,
+  .plans-btns .Choose-btn {
+    padding: 10px 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .trial-contant {
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    top: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .trial-text h2 {
+    font-size: 24px;
+    padding-left: 30px;
+    width: 300px;
+    line-height: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .trial-btn {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .trial-text p {
+    padding-bottom: 30px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-section {
+    margin: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-section h4 {
+    font-size: 16px;
+    padding-top: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-section ul li a {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-section ul li {
+    margin: 10px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-section ul li {
+    margin: 10px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .trial-sec {
+    border-radius: 12px;
+    background-position: center;
+    margin: 10px;
+    border: 1px solid #262626;
+    height: 360px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-bottom {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-bottom p {
+    font-size: 14px;
+    padding-left: 28px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-bottom ul li a {
+    font-size: 14px;
+  }
+}
